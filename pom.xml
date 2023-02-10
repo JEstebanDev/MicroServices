@@ -16,6 +16,7 @@
 	<url>https://jestebandev.netlify.app/</url>
 	<modules>
 		<module>Customer</module>
+		<module>Fraud</module>
 	</modules>
 	<description>Spring Boot Microservices</description>
 

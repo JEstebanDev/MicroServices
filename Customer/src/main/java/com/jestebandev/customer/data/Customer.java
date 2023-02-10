@@ -1,4 +1,4 @@
-package com.jestebandev.customer;
+package com.jestebandev.customer.data;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

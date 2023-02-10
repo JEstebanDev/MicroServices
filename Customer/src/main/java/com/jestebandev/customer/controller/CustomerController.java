@@ -1,5 +1,7 @@
-package com.jestebandev.customer;
+package com.jestebandev.customer.controller;
 
+import com.jestebandev.customer.service.CustomerRegistrationRequest;
+import com.jestebandev.customer.service.CustomerService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

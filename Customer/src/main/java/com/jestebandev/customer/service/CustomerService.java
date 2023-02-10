@@ -1,5 +1,7 @@
-package com.jestebandev.customer;
+package com.jestebandev.customer.service;
 
+import com.jestebandev.customer.data.Customer;
+import com.jestebandev.customer.repository.ICustomerRepository;
 import org.springframework.stereotype.Service;
 
 @Service
